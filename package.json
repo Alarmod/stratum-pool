@@ -47,6 +47,6 @@
   "readmeFilename": "README.md",
   "_id": "stratum-pool@0.1.9",
   "_shasum": "7db6dacabf4d539b10a824f790cad72da21ba7f9",
-  "_from": "git://github.com/Alarmod/node-stratum-pool.git",
-  "_resolved": "git://github.com/Alarmod/node-stratum-pool.git#be08dc9a7323840fadd08213c174e98beaf19f86"
+  "_from": "git://github.com/Alarmod/stratum-pool.git",
+  "_resolved": "git://github.com/Alarmod/stratum-pool.git#be08dc9a7323840fadd08213c174e98beaf19f86"
 }
